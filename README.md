@@ -14,6 +14,22 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 </div>
+   <div width="20" align="left">
+  
+- 🏠 Brazil/São Paulo<br/>
+  
+- 🔭 I’m currently working on web dev full stack and my
+  <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
+ 
+- 🌱 I’m currently learning .NET CORE for multiplataform<br/>
+  API's performing my knowledge in Angular<br>
+  to build hybrid apps and some web apps<br/>
+ 
+- 👀 I plan to take a look in REACT and REACT NATIVE ...<br/>
+ 
+- ⚡ My Learning Methodologie: make more mistakes and learn more 
+    <br/>
+  </div> 
   
   ##
  
