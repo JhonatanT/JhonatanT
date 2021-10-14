@@ -1,23 +1,20 @@
-### Hello chosen one 🖖  
+### HI
 ##
 
-  <a href="https://github.com/dalmasiof"><a/>
-  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://github.com/JhonatanT"><a/>
+  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmasiof&layout=compact&langs_count=7&theme=high"/>
 
   <div width="20" align="left">
   
-- 🏠 Brazil/São Paulo<br/>
+
   
-- 🔭 I’m currently working on web dev full stack and my
-  <br> main tecnologies are ANGULAR, .NET EF and SQL SERVER<br/>
+- 🔧 I’m currently working on web dev full stack and my
+  <br> main tecnologies currently are NodeJs, ReactJs, SqlServer and Mysql<br/>
  
-- 🌱 I’m currently learning .NET CORE for multiplataform<br/>
-  API's performing my knowledge in Angular<br>
-  to build hybrid apps and some web apps<br/>
- 
-- 👀 I plan to take a look in REACT and REACT NATIVE ...<br/>
- 
-- ⚡ My Learning Methodologie: make more mistakes and learn more 
+- 🎓 I plan to learn how to do Artificial Intelligence with python<br/>
+    
+- 🌆 Brazil/São Paulo<br/>
+    
     <br/>
   </div> 
   
