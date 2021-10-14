@@ -20,7 +20,7 @@
   
     ##
   
-  <img align="right" height="140" width="180" src="https://c.tenor.com/u85_yodXikMAAAAC/anime-hands.gif">
+  <img align="right" height="140" width="180" src="https://c.tenor.com/4I46642wy2oAAAAM/anime-typing.gif">
   <p>
     <div style="display: inline_block"><br>
       <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
