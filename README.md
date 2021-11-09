@@ -8,7 +8,7 @@
   
 
   
-- 🔧 I’m currently working on web dev full stack and my
+- 🔧 I’m currently working on dev full stack and my
   <br> main tecnologies currently are NodeJs, ReactJs, SqlServer and Mysql<br/>
  
 - 🎓 I plan to learn how to do Artificial Intelligence with python<br/>
