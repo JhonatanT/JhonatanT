@@ -2,7 +2,7 @@
 ##
 
   <a href="https://github.com/JhonatanT"><a/>
-  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanT&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" height="180em"  src=""/>
 
   <div width="20" align="left">
   
